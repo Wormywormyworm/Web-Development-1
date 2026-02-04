@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Exercise Three - Image</title>
+</head>
+<body>
+<header>
+    James O'Halloran
+</header>
+<main>
+  <img src='images/jack.gif' alt='Picture of Jack' width="80" height="120">
+  
+<p>Jack is a boy with a blue shirt and brown hair. He has a concerning obsession with boxes and loves to use boxes in any way he can find</p>
+    
+<hr>
+
+<q>Anyone who has lost track of time when using a computer knows the propensity to dream, the urge to make dreams come true and the tendency to miss lunch</q> <i>(Tim Berners-Lee)</i>
+</main>
+<footer>
+    Page created by James O'Halloran,2025, &copy;
+</footer>
+</body>
+</html>

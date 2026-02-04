@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Exercise Two - Layout</title>
+</head>
+<body>
+<header> 
+    <h1> James O'Halloran </h1>
+</header>
+<main>
+    <h2> Creative Computing</h2>
+</main>
+<p>
+    I am enjoying my course so far, it is fun
+</p>
+<footer>
+    <i> &copy; James O'Halloran </i>
+</footer>
+
+</body>
+</html>
