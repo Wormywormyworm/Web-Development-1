@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html>
+    <head>
+  <meta charset="UTF-8">
+  <link rel=stylesheet href="css3/style.css">
+ <title>JoJo</title>
+   <style>
+        body {
+            background-color: #fff;
+            color: #333;
+            font: 1.2em / 1.5 Helvetica Neue, Helvetica, Arial, sans-serif;
+            padding: 1em;
+            margin: 5;
+        }
+
+        nav {
+          clear: left;
+          font-size: larger;
+            list-style: none;
+            padding-top: 40px;
+            margin: 0;
+           
+                
+        }
+
+        nav a:link,
+        nav a:visited {
+            background-color: rgba(183, 0, 255, 0.442);
+            border: 2px solid #77A6B6;
+            border-radius: .5em;
+            color: #fff;
+            padding: .5em;
+            text-decoration: none;
+        }
+    </style>
+ </head>
+ <h1> JoJo's Bizarre Adventure</h1>
+ <body>
+  <div id="mainparagraph">
+  <p>
+    JoJo's Bizarre Adventure is a manga and anime series written by Hirohiko Araki and animated by David productions.
+    It is one of the highest rated anime series of all time, with the most recent part, Steel Ball Run being rated the highest by far.
+
+  </p>
+  </div>
+  <div id="infojojo">
+  <p2>
+    I chose this series as a am a huge fan of the art and style of the series. It has a high emphasis on fashion
+    and colour which i love, and it has inspired me to create my own art 
+  </p2>
+  </div>
+<div id="jojopics">
+<img src="css3/images/jojo1.jpg" width="629">
+<img src="css3/images/jojo2.jpg" width="629">
+<img src="css3/images/jojo3.jpg" width="629">
+<img src="css3/images/jojo4.jpg" width="629">
+<img src="css3/images/jojo5.jpg" width="629">
+</div>
+
+<div id="finalword">
+<p3>
+  Listed above are some examples of the art from the manga. As you can see,
+  they are full of bright and vibrant colours, and interesting outfits and poses.
+</p3>
+</div>
+ </body>
+ <footer>
+ <nav>
+    <li><a href="page01">Home Page</a></li>
+    <li><a href="page02">Food Page</a></li>
+  </nav>
+</footer>

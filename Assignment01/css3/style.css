@@ -1,0 +1,84 @@
+body{
+    background-image: url(../css3/images/jjba.jpg);
+        background-color: aqua;
+    background-repeat: no-repeat;
+    background-size:cover ;
+    background-attachment: fixed;
+    background-position: center;    
+}
+h1{
+    border-radius: 1em;
+ background-color: rgba(221, 0, 255, 0.5);
+ color: rgb(255, 255, 255);
+ text-align: center;
+ font-size: 250%;
+ font-weight: bolder;
+ padding: 15px;
+ font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+#mainparagraph{
+    display: flex;
+    justify-content: space-around s;
+    width: 400px;
+    float: left;
+    font-size: larger;
+    background-color: rgba(55, 207, 207, 0.725);
+    padding-left: 80px;
+    padding-right: 50px;
+    padding-top: 60px;
+    padding-bottom: 60px;
+    border: 2cm;
+    border-color: rgba(152, 106, 195, 0.521);
+    border-radius:.5em ;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+}
+
+#infojojo{
+    display: flex;
+    border-radius: .5em;
+ width: 1000px;
+ float: left ;
+ padding: 50px;
+ margin: 50px;
+ background-color:rgba(55, 207, 207, 0.725);
+ font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+ font-size: larger;
+}
+
+#finalword{
+    display: flex;
+    border-radius: .5em;
+    width: 1200px;
+ float: left ;
+ padding: 50px;
+ margin: 50px;
+ background-color:rgba(55, 207, 207, 0.725);
+ font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+font-size: larger;
+}
+
+nav{
+    display: flex;
+    flex-direction: row;
+   justify-content:space-evenly
+}
+
+footer{
+    clear: left;
+}
+
+#jojopics{
+display: flex;
+flex-direction: column;
+justify-content: left;
+float: left;
+}
+
+img{
+
+    border: 5px solid #82dff4;
+    border-radius: 1em;
+    margin:20px;
+
+}
